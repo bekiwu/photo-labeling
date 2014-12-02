@@ -2,8 +2,8 @@ photo-labeling
 ==============
 Photo labelling animation concept
 
-## Knwon Issues
+## Known Issues
 There are some weired bugs on mobile devices. Please view the demo on OSX Safari.
 
 ## Alt Demo Link
-[https://github.com/bekiwu/photo-labeling](https://github.com/bekiwu/photo-labeling)
+[http://staging.photo-labeling.divshot.io/](http://staging.photo-labeling.divshot.io/)
