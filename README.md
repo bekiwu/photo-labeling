@@ -1,6 +1,6 @@
-photo-labeling
-==============
-Photo labelling animation concept
+Photo Labeling
+==============A
+A photo labeling animation concept
 
-# Knwon Issues
+## Known Issues
 There are some weired bugs on mobile devices. Please view the demo on OSX Safari.
