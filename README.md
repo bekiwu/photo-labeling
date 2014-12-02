@@ -1,5 +1,5 @@
 Photo Labeling
-==============A
+==============
 A photo labeling animation concept
 
 ## Known Issues
